@@ -5,3 +5,5 @@
 3.rivi
 4.rivi(branch toka)
 5.rivi(branch toka)
+6.rivi(branch master)
+7.rivi(branch master)
